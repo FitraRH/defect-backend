@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+models/*.pt
+models/*.pth
+outputs/
+test_results_*/
+temp_*.jpg
+.vscode/
+.idea/
